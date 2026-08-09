@@ -21,8 +21,8 @@ export const PERMANENT_STORE = {
       account_id: "418428312",
       for_days: 30,
       adder_admin: "KANHA",
-      added_time: "2026-07-20 12:00:00",
-      expiry_date: "2026-08-20 12:00:00"
+      added_time: "2026-08-10 00:00:00",
+      expiry_date: "2026-09-09 00:00:00"
     }
   ],
   login_history: []
