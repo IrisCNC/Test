@@ -18,7 +18,7 @@ export const PERMANENT_STORE = {
   whitelists: [
     // Pre-seeded sample active UIDs
     {
-      account_id: "15855920849",
+      account_id: "418428312",
       for_days: 30,
       adder_admin: "KANHA",
       added_time: "2026-07-20 12:00:00",
